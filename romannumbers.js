@@ -53,5 +53,5 @@ function convertToRoman(number) {
 // console.log(convertToRoman(666));
 // console.log(convertToRoman(777));
 // console.log(convertToRoman(888));
-console.log(convertToRoman(123));
-console.log(convertToRoman(3999));
+console.log(convertToRoman(2902));
+console.log(convertToRoman(3206));
